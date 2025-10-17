@@ -69,17 +69,3 @@ Portions of code generated with assistance from IBM Granite (AI). All changes we
 ```
 
 Jika Anda memutuskan untuk mencantumkan detail penggunaan AI secara lebih formal, pertimbangkan menambahkan file `AI_USAGE.md` atau memperluas `CONTRIBUTING.md` dengan template prompt, checklist review keamanan, dan cara menandai PR yang berisi perubahan yang dibantu AI.
-
-## Lisensi
-
-Tuliskan lisensi yang Anda pilih di sini (mis. MIT). Jika belum yakin, Anda bisa menambahkan berkas `LICENSE` nanti.
-
----
-
-Jika Anda ingin, saya bisa:
-
-- Menambahkan contoh `app.js` yang memanggil OpenWeatherMap (dengan placeholder API key).
-- Membuat `CONTRIBUTING.md` kecil termasuk template atribusi untuk AI (IBM Granite).
-- Menambahkan `LICENSE` (mis. MIT) dan file `AI_USAGE.md`.
-
-Beritahu saya opsi mana yang Anda inginkan dan saya akan menambahkannya.
